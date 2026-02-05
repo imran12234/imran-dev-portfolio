@@ -1,5 +1,3 @@
-# imran-dev-portfolio
-I am a Master’s student in AI and a Software Engineer specializing in building scalable full-stack applications with integrated machine learning. With a foundation in Java, Python, and TypeScript, I focus on moving AI models from research into production-ready environments.
 # Imran Ahmed | AI & Full-Stack Engineer
 **MS in Artificial Intelligence @ DePaul University** | BS in Computer Science (3.7 GPA)
 *Bridging the gap between Machine Learning research and scalable Full-Stack production.*
