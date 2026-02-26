@@ -56,7 +56,7 @@ export default function Home() {
               <a href="#projects">View Projects</a>
             </Button>
             <Button variant="outline" asChild className="border-blue-700 dark:border-cyan-500 text-blue-700 dark:text-cyan-400 hover:bg-blue-50 dark:hover:bg-cyan-500/10 hover:text-blue-800 dark:hover:text-cyan-300">
-              <a href="/resume.pdf" target="_blank">Resume</a>
+              <a href="/Imran Ahmed Resume FEB 2026.pdf" target="_blank">Resume</a>
             </Button>
             <ThemeToggle />
             <div className="flex gap-3">
